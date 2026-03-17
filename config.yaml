@@ -1,0 +1,24 @@
+site:
+  name: "我的主页"
+  avatar: "奶牛猫头像.png"
+  description: "欢迎来到我的个人主页"
+
+links:
+  - name: "博客"
+    url: "https://blog.dongyue12.cn"
+    icon: "blog"
+    description: "我的个人博客"
+  
+  - name: "备用博客"
+    url: "https://gmeek.dongyue12.cn"
+    icon: "blog"
+    description: "Gmeek 博客"
+  
+  - name: "文档站"
+    url: "https://mkdocs.dongyue12.cn"
+    icon: "docs"
+    description: "技术文档与笔记"
+  
+  - name: "邮箱"
+    url: "mailto:2436847447@qq.com"
+    icon: "email"
